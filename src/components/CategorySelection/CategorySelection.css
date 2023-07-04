@@ -1,0 +1,20 @@
+.category-selections {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.category-selection {
+  display: flex;
+  flex-direction: row;
+  margin: 24px;
+}
+
+.filter-checkbox {
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: 0.5em;
+}
