@@ -23,6 +23,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-
-[screen-capture.webm](https://github.com/spandanaadapala/entain-task/assets/123637810/4404ec66-d92f-48b8-8289-0162910fdd88)
